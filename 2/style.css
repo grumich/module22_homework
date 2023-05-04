@@ -1,0 +1,31 @@
+.btn{
+    width: 300px;
+    height: 80px;
+    background: #5fc3f3;
+    border:none;
+    color: #fff;
+    font-style: italic;
+    font-size:20px;
+    cursor: pointer;
+  }
+  
+  .svgAdd{
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    padding-top: 10px;
+  }
+  .svgChange{
+    display: none;
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    padding-top: 10px;
+  }
+  
+  .hide{
+      display: none;
+   }
+  .show{
+    display: block;
+  }
