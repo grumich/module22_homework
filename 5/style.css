@@ -1,0 +1,29 @@
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .wrap-style {
+    width: 600px;
+    background-color: #26def75c; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+  }
+  .wrap_item-1{
+     margin: 20px;
+  }
+  .content {
+    width: 580px;
+    background-color: #fff;
+    margin: 20px;
+  }
+  .content__request{
+  text-align: right;
+  padding-right: 50px;
+  }
+  .content__response{
+  padding-left: 50px;
+  }
